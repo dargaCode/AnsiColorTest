@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <cs50.h>
 
 // printf ANSI macros
 #define COLOR_RESET   "\x1b[0m"
